@@ -1,0 +1,7 @@
+Name:               lazy-io
+Version:            0.0.1
+Synopsis:           Lazy IO
+Maintainer:         waszczuk.kuba@gmail.com
+Build-type:         Simple
+Exposed-modules:    Control.Monad.Lazy
+Build-Depends:      base
